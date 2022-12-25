@@ -11,7 +11,7 @@ p3{
   justify-items: left;
   padding-left: 10px;
   padding-top: 8px;
-  background-color: rgb(101, 201, 235);
+  background-color: rgb(51, 172, 57);
   font-weight: bold;
   
 }
@@ -39,7 +39,7 @@ textarea{
 }
 button{
   color:rgb(8,9,9);
-  background-color: rgb(127,192,237);
+  background-color: rgb(237, 127, 127);
   border-radius: 10px;
   margin-top:7px; 
   padding-top:8px;
