@@ -1,0 +1,49 @@
+.App{
+  display: flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction: column;
+}
+p3{
+  border: 1px solid rgba(43, 44, 44, 0.701);
+  height: 30px;
+  width: 1365px;
+  justify-items: left;
+  padding-left: 10px;
+  padding-top: 8px;
+  background-color: rgb(101, 201, 235);
+  font-weight: bold;
+  
+}
+table1{
+  margin: 70px;
+  margin-right: -400px;
+  border: 1px solid rgba(43, 44, 44, 0.701);
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+}
+table{
+  border: 1px solid white;
+  margin-left: -670px;
+  margin-top: -310px;
+}
+input{
+  width:230px;
+}
+textarea{
+  width: 230px;
+  height: 50px;
+}
+button{
+  color:rgb(8,9,9);
+  background-color: rgb(127,192,237);
+  border-radius: 10px;
+  margin-top:7px; 
+  padding-top:8px;
+  padding-left:35px;
+  padding-right: 35px;
+  padding-bottom:8px;
+}
